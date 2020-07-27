@@ -78,5 +78,3 @@ console.log(
 console.log(
   `Utterances per second: ${utterancesPerSecond}`
 );
-
-console.log(`${good} good of a total of ${total} (${good * 100 / total}%)`);
